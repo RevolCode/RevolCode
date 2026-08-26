@@ -9,7 +9,7 @@
   🚀 Construyendo sistemas modernos, escalables y bien pensados<br/>
   💻 Enfocado en desarrollo backend/full-stack<br/>
   🌱 Aprendiendo constantemente nuevas tecnologías<br/>
-  📫 Contactame: tu-email@ejemplo.com
+  📫 Contactame: a.sulluchuco.systems@gmail.com
 </p>
 
 ---
