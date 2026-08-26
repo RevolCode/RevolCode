@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>⚡ Revol Code</h1>
+<h1>⚡ RevolCode</h1>
 <h3>Building modern systems, one commit at a time.</h3>
 
 <img src="https://img.shields.io/badge/status-active-00E5FF?style=for-the-badge&labelColor=1a1a1a" alt="status"/>
